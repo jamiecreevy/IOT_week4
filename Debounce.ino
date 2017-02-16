@@ -7,7 +7,7 @@
  noise).
 
  The circuit:
- * LED attached from pin 13 to ground
+ * LED attached from pin 04 to ground
  * pushbutton attached from pin 2 to +5V
  * 10K resistor attached from pin 2 to ground
 
